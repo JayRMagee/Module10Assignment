@@ -17,7 +17,7 @@ public class Module10Assignment {
         ClothingFactory factory;
 
         //the clothing types should all be lower case
-        String clothes = "party";
+        String clothes = "I am so excited to go to this professional meeting";
         
 //if statement to choose proper clothing style 
         if (clothes.contains("casual")) {
