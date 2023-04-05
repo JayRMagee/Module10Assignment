@@ -13,7 +13,7 @@ public class CasualPants implements Pants {
 
     @Override
     public void pant() {
-        System.out.println("Casual pant");
+        System.out.println("Casual pants");
     }
     
 }

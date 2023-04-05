@@ -13,7 +13,7 @@ public class PartyShoes implements Shoes {
 
     @Override
     public void shoe() {
-        System.out.println("Party shoe");
+        System.out.println("Party shoes");
     }
     
 }
